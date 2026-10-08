@@ -23,10 +23,27 @@ saldo em meses futuros e relatórios em PDF.
 ```bash
 flutter pub get
 flutter run
-
+```
 📁 Estrutura
 lib/screens/ — telas do app
 lib/models/ — modelos de dados
 lib/repositories/ — acesso ao banco de dados
 lib/database/ — criação e migração do banco
 lib/services/ — serviços (exportação PDF)
+
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](screenshots/home.png)
+
+### 💸 Despesas
+![Despesas](screenshots/despesas.png)
+
+### 💰 Receitas
+![Receitas](screenshots/receitas.png)
+
+### 💳 Cartões
+![Cartões](screenshots/cartoes.png)
+
+### 📊 Relatórios
+![Relatórios](screenshots/relatorios.png)
